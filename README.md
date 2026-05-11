@@ -9,6 +9,25 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 
 ---
 
+<p align="left">
+  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/SandroOlaf?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
 ### 🌐 Onde me encontrar
 
 <p align="left">
@@ -99,21 +118,3 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 
 <br clear="left"/>
 
----
-
-<p align="left">
-  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/SandroOlaf?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
