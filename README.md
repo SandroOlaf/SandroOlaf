@@ -1,5 +1,5 @@
-# Sandro Olaf 
-# Seja Bem-Vindo ao meu GitHub👋
+# Sandro Olaf - Seja Bem-Vindo ao meu GitHub👋
+
 
 **`Desenvolvedor em Formação | Python & IA Enthusiast`**
 
