@@ -1,31 +1,13 @@
-# Olá! Eu sou o Sandro Olaf 👋
+# Sandro Olaf 
+# Seja Bem-Vindo ao meu GitHub👋
 
-**`Desenvolvedor em Formação | Python Enthusiast`**
+**`Desenvolvedor em Formação | Python & IA Enthusiast`**
 
-Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos sólidos na área de tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me especializando em **Python**. Sou apaixonado por transformar ideias em código e criar soluções que façam a diferença.
+Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos sólidos na área de tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, me especializando em **Python** e com grande interesse em **Inteligência Artificial**. Sou apaixonado por explorar como a IA pode ser usada para criar soluções inteligentes e automatizar o que antes parecia impossível.
 
 > *"Código é poesia — cada linha conta uma história."*
 
 ---
-
-
-<p align="left">
-  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/SandroOlaf?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
-
 
 ### 🌐 Onde me encontrar
 
@@ -91,6 +73,7 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 ### 📚 Atualmente estudando
 
 - 🐍 **Python** — lógica de programação, estruturas de dados e automações
+- 🤖 **Inteligência Artificial** — explorando conceitos de IA, LLMs e automações inteligentes
 - 🎓 **ADS** — Análise e Desenvolvimento de Sistemas
 - 🧠 Algoritmos e resolução de problemas
 
@@ -118,3 +101,19 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 
 ---
 
+<p align="left">
+  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/SandroOlaf?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
