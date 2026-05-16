@@ -66,7 +66,6 @@
 
 - 🐍 **Python** — lógica de programação, estruturas de dados e automações
 - 🤖 **Inteligência Artificial** — explorando conceitos de IA, LLMs e automações inteligentes
-- 🎓 **ADS** — Análise e Desenvolvimento de Sistemas
 - 🧠 Algoritmos e resolução de problemas
 
 ---
