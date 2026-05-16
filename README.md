@@ -2,39 +2,12 @@
 
 **Desenvolvedor em Formação** apaixonado por construir **soluções inteligentes com Python** e explorar o potencial da **Inteligência Artificial**. Estou na interseção entre **aprendizado contínuo** e **tecnologia de ponta**, sempre buscando transformar ideias em código funcional.
 
-<table>
-<tr>
-<td width="60%" valign="top" align="center" style="border:none;">
-
-<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=SandroOlaf" alt="GitHub Stats Sandro Olaf"/>
-
-</td>
-<td width="40%" valign="top" style="border:none;">
-
 ### O que me move
 - **Curiosidade constante** — Sempre explorando novas tecnologias e conceitos
 - **IA na prática** — Apaixonado por como a IA transforma a forma de desenvolver
 - **Código limpo** — Escrever soluções simples para problemas complexos
 - **Aprendizado contínuo** — Cada dia é uma oportunidade de evoluir
 - **Automação** — Se pode ser automatizado, pode ser melhorado
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-<summary><h3>🐍 Atividade de Contribuições</h3></summary>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake.svg">
-</picture>
-
-</details>
 
 ---
 
@@ -45,8 +18,6 @@
 <td width="30%" align="center"><b>Linguagens</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48" height="48"/>
 </td>
 </tr>
 <tr>
@@ -54,6 +25,8 @@
 <td>
 <img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/>
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
 </td>
 </tr>
 <tr>
@@ -77,26 +50,23 @@
 
 ---
 
-<details>
-<summary><h3>📊 Métricas do GitHub</h3></summary>
-<br>
+### 📊 Estatísticas
 
 <div align="center">
 
 <img 
   alt="GitHub Stats" 
-  height="180" 
-  style="padding-right:10px;"
+  width="100%"
   src="https://github-readme-stats.vercel.app/api?username=SandroOlaf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
+
 <img 
-  alt="Top Linguagens" 
-  height="180"
+  alt="Top Linguagens"
+  width="100%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroOlaf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 </div>
-</details>
 
 ---
 
