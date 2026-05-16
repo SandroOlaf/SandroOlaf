@@ -1,4 +1,14 @@
 ## Sobre mim
+
+**Desenvolvedor em Formação** apaixonado por construir **soluções inteligentes com Python** e explorar o potencial da **Inteligência Artificial**. Estou na interseção entre **aprendizado contínuo** e **tecnologia de ponta**, sempre buscando transformar ideias em código funcional.
+
+### O que me move
+- **Curiosidade constante** — Sempre explorando novas tecnologias e conceitos
+- **IA na prática** — Apaixonado por como a IA transforma a forma de desenvolver
+- **Código limpo** — Escrever soluções simples para problemas complexos
+- **Aprendizado contínuo** — Cada dia é uma oportunidade de evoluir
+- **Automação** — Se pode ser automatizado, pode ser melhorado
+
 ---
 
 <div align="center">
@@ -21,17 +31,6 @@
 </div>
 
 ----
-
-**Desenvolvedor em Formação** apaixonado por construir **soluções inteligentes com Python** e explorar o potencial da **Inteligência Artificial**. Estou na interseção entre **aprendizado contínuo** e **tecnologia de ponta**, sempre buscando transformar ideias em código funcional.
-
-### O que me move
-- **Curiosidade constante** — Sempre explorando novas tecnologias e conceitos
-- **IA na prática** — Apaixonado por como a IA transforma a forma de desenvolver
-- **Código limpo** — Escrever soluções simples para problemas complexos
-- **Aprendizado contínuo** — Cada dia é uma oportunidade de evoluir
-- **Automação** — Se pode ser automatizado, pode ser melhorado
-
----
 
 ### 🤖 Tecnologias e Ferramentas
 
