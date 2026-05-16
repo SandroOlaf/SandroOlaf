@@ -52,6 +52,15 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 
 ### 📊 Estatísticas
 
+<table>
+<tr>
+<td width="60%" valign="top" align="center" style="border:none;">
+
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=rstar327" alt="GitHub Streak"/>
+
+</td>
+<td width="40%" valign="top" style="border:none;">
+
 <p align="center">
   <img 
     alt="GitHub Stats" 
