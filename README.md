@@ -1,43 +1,70 @@
-<div align="center">
+## Sobre mim
 
-# Olá! Eu sou o Sandro Olaf 👋
+**Desenvolvedor em Formação** apaixonado por construir **soluções inteligentes com Python** e explorar o potencial da **Inteligência Artificial**. Estou na interseção entre **aprendizado contínuo** e **tecnologia de ponta**, sempre buscando transformar ideias em código funcional.
 
-**`Desenvolvedor em Formação | Python & IA Enthusiast`**
+<table>
+<tr>
+<td width="60%" valign="top" align="center" style="border:none;">
 
-Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos sólidos na área de tecnologia. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, me especializando em **Python** e com grande interesse em **Inteligência Artificial**. Sou apaixonado por explorar como a IA pode ser usada para criar soluções inteligentes e automatizar o que antes parecia impossível.
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=SandroOlaf" alt="GitHub Stats Sandro Olaf"/>
 
-> *"Código é poesia — cada linha conta uma história."*
+</td>
+<td width="40%" valign="top" style="border:none;">
 
-<p>
-  <a href="https://www.linkedin.com/in/sandro-avelar-510800145/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sandroolafdev@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SandroOlaf?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-</p>
+### O que me move
+- **Curiosidade constante** — Sempre explorando novas tecnologias e conceitos
+- **IA na prática** — Apaixonado por como a IA transforma a forma de desenvolver
+- **Código limpo** — Escrever soluções simples para problemas complexos
+- **Aprendizado contínuo** — Cada dia é uma oportunidade de evoluir
+- **Automação** — Se pode ser automatizado, pode ser melhorado
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<details>
+<summary><h3>🐍 Atividade de Contribuições</h3></summary>
+<br>
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SandroOlaf/SandroOlaf/output/github-contribution-grid-snake.svg">
+</picture>
 
-<br/>
-<br/>
+</details>
+
+---
+
+### 🤖 Tecnologias e Ferramentas
+
+<table>
+<tr>
+<td width="30%" align="center"><b>Linguagens</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Ferramentas IA</b></td>
+<td>
+<img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Dev & Produtividade</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,27 +77,44 @@ Tenho 26 anos, sou natural do Espírito Santo e estou dando os primeiros passos 
 
 ---
 
-### 📊 Estatísticas
+<details>
+<summary><h3>📊 Métricas do GitHub</h3></summary>
+<br>
 
-<table>
-<tr>
-<td width="60%" valign="top" align="center" style="border:none;">
+<div align="center">
 
-<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=rstar327" alt="GitHub Streak"/>
+<img 
+  alt="GitHub Stats" 
+  height="180" 
+  style="padding-right:10px;"
+  src="https://github-readme-stats.vercel.app/api?username=SandroOlaf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+<img 
+  alt="Top Linguagens" 
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroOlaf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 
-</td>
-<td width="40%" valign="top" style="border:none;">
+</div>
+</details>
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SandroOlaf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    alt="Top Linguagens" 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroOlaf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+---
+
+<div align="center">
+
+<p>
+  <a href="https://www.linkedin.com/in/sandro-avelar-510800145/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sandroolafdev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SandroOlaf?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/SandroOlaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SandroOlaf?tab=repositories&sort=stargazers">
+    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/SandroOlaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+  </a>
 </p>
+
+</div>
