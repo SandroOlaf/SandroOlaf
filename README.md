@@ -26,7 +26,7 @@
 <img src="https://skills.syvixor.com/api/icons?i=claudeai" title="Claude AI" alt="Claude AI" width="48" height="48"/>
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt" title="ChatGPT" alt="ChatGPT" width="48" height="48"/>
 <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=github" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
+<img src="https://skills.syvixor.com/api/icons?i=copilot" title="GitHub Copilot" alt="GitHub Copilot" width="48" height="48"/>
 </td>
 </tr>
 <tr>
@@ -53,6 +53,8 @@
 ### 📊 Estatísticas
 
 <div align="center">
+
+<img width="100%" src="https://stats.hyo.dev/api/github-stats-advanced?login=SandroOlaf" alt="GitHub Stats Sandro Olaf"/>
 
 <img 
   alt="GitHub Stats" 
